@@ -1,0 +1,14 @@
+﻿@model BusBookingSystem.Models.Bus
+
+<h1>Available Seats for @Model.BusNumber</h1>
+
+<table>
+    <tr>
+        @foreach (var seat in Model.Seats)
+        {
+            <td style="background-color:@(seat.IsAvailable ? "green" : "red")">
+                @seat.SeatNumber
+            </td>
+        }
+    </tr>
+</table>

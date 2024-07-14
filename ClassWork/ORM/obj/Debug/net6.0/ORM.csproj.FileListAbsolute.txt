@@ -1,0 +1,4 @@
+E:\Ms.NET\ConsoleApp\ORM\obj\Debug\net6.0\ORM.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ms.NET\ConsoleApp\ORM\obj\Debug\net6.0\ORM.AssemblyInfoInputs.cache
+E:\Ms.NET\ConsoleApp\ORM\obj\Debug\net6.0\ORM.AssemblyInfo.cs
+E:\Ms.NET\ConsoleApp\ORM\obj\Debug\net6.0\ORM.csproj.CoreCompileInputs.cache

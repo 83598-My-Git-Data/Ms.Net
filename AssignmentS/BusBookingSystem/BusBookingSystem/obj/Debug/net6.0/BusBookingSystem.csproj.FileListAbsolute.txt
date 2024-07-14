@@ -1,0 +1,8 @@
+E:\Ms_Net_2024\BusBookingSystem\BusBookingSystem\obj\Debug\net6.0\BusBookingSystem.csproj.AssemblyReference.cache
+E:\Ms_Net_2024\BusBookingSystem\BusBookingSystem\obj\Debug\net6.0\BusBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ms_Net_2024\BusBookingSystem\BusBookingSystem\obj\Debug\net6.0\BusBookingSystem.AssemblyInfoInputs.cache
+E:\Ms_Net_2024\BusBookingSystem\BusBookingSystem\obj\Debug\net6.0\BusBookingSystem.AssemblyInfo.cs
+E:\Ms_Net_2024\BusBookingSystem\BusBookingSystem\obj\Debug\net6.0\BusBookingSystem.csproj.CoreCompileInputs.cache
+E:\Ms_Net_2024\BusBookingSystem\BusBookingSystem\obj\Debug\net6.0\BusBookingSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\Ms_Net_2024\BusBookingSystem\BusBookingSystem\obj\Debug\net6.0\BusBookingSystem.RazorAssemblyInfo.cache
+E:\Ms_Net_2024\BusBookingSystem\BusBookingSystem\obj\Debug\net6.0\BusBookingSystem.RazorAssemblyInfo.cs

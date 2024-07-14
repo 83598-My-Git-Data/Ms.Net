@@ -1,0 +1,60 @@
+﻿@model Demo01.Models.Time
+<html>
+    <head>
+    <title>Demo MVC</title>
+     <link rel="stylesheet" href="~/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+    <body>
+     <form method="post" action="/Home/AfterEdit">
+        <div class="container">
+            <hr />
+            <a href="/Home/Index" class="btn btn-primary">Go Back Home</a>
+            <hr />
+            <div class="table-responsive">
+                <table class="table table-bordered">
+                    <tbody>
+                        <tr>
+                            <td colspan="2">
+                                <input name="BatchId" type="hidden" value="@Model.BatchId" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>Course</td>
+                            <td>
+                                <input name="Course" type="text" value="@Model.Course" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>BatchName</td>
+                            <td>
+                                <input name="BatchName" type="text" value="@Model.BatchName" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>GST</td>
+                            <td>
+                                <input name="GST" type="text" value="@Model.GST" />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>TotalFee</td>
+                            <td>
+                                <input name="TotalFee" type="text" value="@Model.TotalFee" />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <input type="submit" value="Update time schedule" />
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+     </form>
+    </body>
+</html>

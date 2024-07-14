@@ -1,0 +1,15 @@
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\bin\Debug\net6.0\05Demo_Getter_Setter.exe
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\bin\Debug\net6.0\05Demo_Getter_Setter.deps.json
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\bin\Debug\net6.0\05Demo_Getter_Setter.runtimeconfig.json
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\bin\Debug\net6.0\05Demo_Getter_Setter.dll
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\bin\Debug\net6.0\05Demo_Getter_Setter.pdb
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\obj\Debug\net6.0\05Demo_Getter_Setter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\obj\Debug\net6.0\05Demo_Getter_Setter.AssemblyInfoInputs.cache
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\obj\Debug\net6.0\05Demo_Getter_Setter.AssemblyInfo.cs
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\obj\Debug\net6.0\05Demo_Getter_Setter.csproj.CoreCompileInputs.cache
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\obj\Debug\net6.0\05Demo_Getter_Setter.sourcelink.json
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\obj\Debug\net6.0\05Demo_Getter_Setter.dll
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\obj\Debug\net6.0\refint\05Demo_Getter_Setter.dll
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\obj\Debug\net6.0\05Demo_Getter_Setter.pdb
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\obj\Debug\net6.0\05Demo_Getter_Setter.genruntimeconfig.cache
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\05Demo_Getter_Setter\obj\Debug\net6.0\ref\05Demo_Getter_Setter.dll

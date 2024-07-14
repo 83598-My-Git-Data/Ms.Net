@@ -1,0 +1,56 @@
+﻿@model List<Demo01.Models.Time>
+
+<html>
+<head>
+    <title>Demo MVC</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="~/bootstrap.min.css" />
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <hr />
+        <a href="/Home/Create" class="btn btn-primary">Add New Time</a>
+        <hr />
+        <div class="table-responsive">
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Course</th>
+                        <th>Batch</th>
+                        <th>Total fare</th>
+                        <th>Option</th>
+                  
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var time in Model)
+                    {
+                        <tr>
+                            <td>@time.BatchId</td>
+                            <td>@time.Course</td>
+                            <td>@time.BatchName</td>
+                            <td>@time.TotalFee 
+                                
+                                   <h6>@time.GST%</h6>
+                            </td>
+                    
+                            <td>
+                                <a class="btn btn-warning"
+                                   href="/Home/Edit/@time.BatchId">Edit</a>
+                            </td>
+
+                            
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

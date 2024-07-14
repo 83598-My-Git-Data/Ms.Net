@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Attrributes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Attrributes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Attrributes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Attrributes/1.0.0": {
+      "type": "project",
+      "path": "../Attrributes/Attrributes.csproj",
+      "msbuildProject": "../Attrributes/Attrributes.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Attrributes >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\H-Tech\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Ms.NET\\ConsoleApp\\POCO\\POCO.csproj",
+      "projectName": "POCO",
+      "projectPath": "E:\\Ms.NET\\ConsoleApp\\POCO\\POCO.csproj",
+      "packagesPath": "C:\\Users\\H-Tech\\.nuget\\packages\\",
+      "outputPath": "E:\\Ms.NET\\ConsoleApp\\POCO\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\H-Tech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Ms.NET\\ConsoleApp\\Attrributes\\Attrributes.csproj": {
+              "projectPath": "E:\\Ms.NET\\ConsoleApp\\Attrributes\\Attrributes.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

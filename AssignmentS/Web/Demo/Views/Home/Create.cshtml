@@ -1,0 +1,57 @@
+﻿
+<html>
+<head>
+    <title>Demo MVC</title>
+    <link rel="stylesheet" href="~/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <form method="post" action="/Home/AfterCreate">
+        <div class="container">
+            <hr />
+            <a href="/Home/Index" class="btn btn-primary">Go Back Home</a>
+            <hr />
+            <div class="table-responsive">
+                <table class="table table-bordered">
+                    <tbody>
+                        <tr>
+                            <td>FirstName</td>
+                            <td>
+                                <input name="FirstName" type="text" />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>LastName</td>
+                            <td>
+                                <input name="LastName" type="text" />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>Address</td>
+                            <td>
+                                <input name="Address" type="text" />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>MobileNo</td>
+                            <td>
+                                <input name="MobileNo" type="text" />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <input type="submit" value="Submit Employee Details" />
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

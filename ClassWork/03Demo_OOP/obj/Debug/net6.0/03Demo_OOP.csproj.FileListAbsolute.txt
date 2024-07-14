@@ -1,0 +1,15 @@
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\bin\Debug\net6.0\03Demo_OOP.exe
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\bin\Debug\net6.0\03Demo_OOP.deps.json
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\bin\Debug\net6.0\03Demo_OOP.runtimeconfig.json
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\bin\Debug\net6.0\03Demo_OOP.dll
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\bin\Debug\net6.0\03Demo_OOP.pdb
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\obj\Debug\net6.0\03Demo_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\obj\Debug\net6.0\03Demo_OOP.AssemblyInfoInputs.cache
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\obj\Debug\net6.0\03Demo_OOP.AssemblyInfo.cs
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\obj\Debug\net6.0\03Demo_OOP.csproj.CoreCompileInputs.cache
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\obj\Debug\net6.0\03Demo_OOP.sourcelink.json
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\obj\Debug\net6.0\03Demo_OOP.dll
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\obj\Debug\net6.0\refint\03Demo_OOP.dll
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\obj\Debug\net6.0\03Demo_OOP.pdb
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\obj\Debug\net6.0\03Demo_OOP.genruntimeconfig.cache
+E:\Sunbeam Data\ms.net\Day03\KDAC2024\03Demo_OOP\obj\Debug\net6.0\ref\03Demo_OOP.dll
